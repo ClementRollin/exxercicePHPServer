@@ -44,10 +44,8 @@ function getMessage()
 
 
 <form action="index.php" method="get">
-    <div><input type="text" name="name" id="" placeholder="name"></div>
-    <div>
-        <button type="submit">OK</button>
-    </div>
+    <input type="text" name="name" id="" placeholder="name">
+    <button type="submit">OK</button>
 </form>
 
 </body>
